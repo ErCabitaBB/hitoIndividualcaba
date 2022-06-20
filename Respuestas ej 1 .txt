@@ -1,0 +1,23 @@
+Java no permite la herencia múltiple, pero a cambio dispone de la construcción denominada “Interface” que permite una forma de simulación o implementación limitada de la herencia múltiple.
+
+overload y override se aplican de distintas formas y no olvides la mayor diferencia entre los dos conceptos es que no hacen lo mismo, uno sobrescribe un metodo y el otro sobrecarga un metodo, este tema está muy ligado al Polimorfismo en Java, otro de los grandes pilares de la programación orientada a objetos.
+Uno deja dos posibilidades a elegir ene el momento de por ejemplo llamar a un metodo y otro lo sobreescribe, es decir anula la anterior accion de este.
+
+Colas:
+Las colas se basan en el principio FIFO, es decir, el elemento insertado en primer lugar, es el primero en salir de la lista.
+La inserción y el borrado en las colas se realiza sólo desde la parte trasera y delantera, respectivamente.
+La cola tiene un tamaño dinámico y fijo.
+La cola puede contener elementos de diferentes tipos de datos.
+Los diferentes tipos de colas son la cola circular, la cola prioritaria, la cola de doble terminación
+Array:
+En el array los elementos pertenecen a índices, es decir, si quieres entrar en el cuarto elemento tienes que escribir el nombre de la variable con su índice o ubicación dentro del corchete por ejemplo arr[4]
+La inserción y el borrado en el array pueden realizarse en cualquier índice del array.
+Array has a fixed size.
+El array contiene elementos del mismo tipo de datos.
+Los diferentes tipos de arrays son 1D, 2D, etc.
+Pilas:
+Las pilas se basan en el principio LIFO, es decir, el elemento insertado en último lugar, es el primero que sale de la lista.
+La inserción y el borrado en las pilas sólo tienen lugar a partir de un extremo de la lista, llamado superior.
+La pila tiene un tamaño dinámico y fijo.
+La pila puede contener elementos de los diferentes tipos de datos.
+La pila sólo tiene un tipo.
